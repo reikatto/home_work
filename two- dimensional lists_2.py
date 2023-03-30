@@ -35,6 +35,6 @@ for i in range(n**2):
         break
 
 if flag:
-    print('NO')
+    print('Incorrect')
 else:
-    print('YES')
+    print('Correct')
